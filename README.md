@@ -1,2 +1,2 @@
 # hello-world
-trying out a new repository.
+Trying out a new repository.
